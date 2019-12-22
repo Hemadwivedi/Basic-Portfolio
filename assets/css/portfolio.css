@@ -33,3 +33,8 @@
 .centered_area {
     margin: 16px auto 2px auto;
 }
+.footer_content{
+    text-align: center;
+    font-size: 14px;
+    color: antiquewhite;
+}
