@@ -1,0 +1,35 @@
+.centerd_area_wrapper table tr td {
+    position: relative;
+    text-align: center;
+}
+
+.centerd_area_wrapper {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: auto;
+}
+
+.imageText {
+    position: absolute;
+    bottom: 30px;
+    left: 12px;
+    background-color: #4AAAA5;
+    font-size: 28px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 13px 31px 13px 42px;
+    width: 90.5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.column {
+    width: 220px;
+    height: 200px;
+    margin: 14px 11px;
+    display: inline-block;
+}
+
+.centered_area {
+    margin: 16px auto 2px auto;
+}
